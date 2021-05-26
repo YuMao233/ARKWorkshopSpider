@@ -1,0 +1,1 @@
+scrapy crawl CreativeWorkshopSpider -o \ARK_ControlPanel_Package\public\WorkshopFiles\collection.json
